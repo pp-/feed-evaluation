@@ -35,7 +35,7 @@ Example:
     vendor12	cuckoo	8.8.4.4
     vendor12	cuckoo	10.0.0.1
     vendor12	cuckoo	10.0.0.2
-    vendor12	\N	10.0.0.2
+    vendor12	\N	10.0.0.3
     ...
 
 
